@@ -1,6 +1,2 @@
-Debelyak Yura 12.05.2005 {1,1,1,1, 5, 5, 5, 5}
-Legeza Ivan 11.05.2005 {5,2,3,5, 5, 5, 5, 5}
-Bodnar Nastya 15.04.2004 {2, 4, 6, 4, 5, 5, 5, 5}
-Voin Vitaliy 15.09.2005 {2,5,4,5, 5, 5, 5, 5}
-Sabat Nazariy 13.06.2005 {1,2,5,5, 5, 5, 5, 5}
-Bachynskiy Roman 16.01.2005 {6, 4, 2, 4, 5, 5, 5, 5}
+Volodymyr Zelenskii 25.01.1978 {5, 4, 3, 2, 1}
+Petro Poroshenko 26.09.1965 {5,2,3,5, 5, 5, 5, 5}
